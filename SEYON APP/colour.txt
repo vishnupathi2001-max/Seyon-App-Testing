@@ -1,0 +1,53 @@
+Great choice. The "Divine Warmth" palette is excellent for a devotional app because it feels sacred but remains easy on the eyes.
+Since your Cards, Alert Boxes, and Toasts will have a White (#FFFFFF) background, here is the specific text color breakdown to maintain that "neat and clean" hierarchy.
+I have separated them by Hierarchy (Importance) to guide the user's eye naturally.
+
+1. The Titles (Headings, Song Names, Alert Headers)
+You want the titles to stand out immediately but not look harsh.
+
+    Color: Burnt Orange (#E65100)
+
+    Why: Using the primary color for titles on white cards links the content to your theme without overpowering the screen. It looks very polished.
+Font Weight: Bold (700)
+
+2. The Body Text (Lyrics, Story Paragraphs, Alert Messages)
+This is the most important part for reading. Do not use the orange color here. It must be a neutral dark color for eye comfort.
+
+    Color: Dark Charcoal (#212121)
+
+    Why: Pure black (#000000) on pure white can cause eye strain (vibrating effect). This "Dark Charcoal" is soft enough to be comfortable but dark enough to be perfectly readable.  
+Font Weight: Regular (400)
+
+3. The Secondary Text (Subtitles, Authors, "Read More", Dates)
+This is for information that is less important than the main story.
+
+    Color: Warm Grey (#757575)
+
+    Why: This pushes the text into the background slightly, letting the Title and Body take center stage.
+
+    Font Weight: Medium (500) or Regular (400)
+
+4. Interactive Text (Buttons, "OK", "Cancel", Links)
+Color: Deep Saffron (#FF9933) (The lighter of your two oranges)
+
+    Why: It signals to the user "You can click this."
+
+Summary Table for Developers
+You can copy these values directly into your colors.xml or CSS.
+
+
+Element Component Hex Color Code Visual Style
+
+Card Title Song Name / Story Header #E65100 (Burnt Orange) Bold, Large
+
+Card Body Lyrics Preview / Story Text #212121 (Charcoal) Regular, Medium Size
+
+Card Metadata "Author", Date, Time #757575 (Warm Grey) Small, Italic (optional)
+
+Alert Box Title "Confirm Delete", "Success" #E65100 (Burnt Orange) Bold
+
+Alert Box Msg "Are you sure?" #212121 (Charcoal) Regular
+
+Toast Text Notification Message #212121 (Charcoal) Regular (on White Toast)
+
+Text Button "READ MORE" / "OK" #FF9933 (Saffron) Bold, All Caps

@@ -1,0 +1,8 @@
+சேவல் விருத்தம்___folder___url
+திருவகுப்பு___folder___url
+மயில் விருத்தம்___folder___url
+வேல் விருத்தம்___folder___url
+ஏறுமயில் ஏறி___file___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/SEYON%20APP/%E0%AE%85%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%20%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AE%B0%E0%AF%8D/%E0%AE%8F%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D%20%E0%AE%8F%E0%AE%B1%E0%AE%BF.txt
+கந்தர் அநுபூதி___file___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/SEYON%20APP/%E0%AE%85%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%20%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AE%B0%E0%AF%8D/%E0%AE%95%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AF%8D%20%E0%AE%85%E0%AE%A8%E0%AF%81%E0%AE%AA%E0%AF%82%E0%AE%A4%E0%AE%BF.txt
+கந்தர் அந்தாதி___file___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/SEYON%20APP/%E0%AE%85%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%20%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AE%B0%E0%AF%8D/%E0%AE%95%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AF%8D%20%E0%AE%85%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A4%E0%AE%BF.txt
+கந்தர் அலங்காரம்___file___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/SEYON%20APP/%E0%AE%85%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%20%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AE%B0%E0%AF%8D/%E0%AE%95%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AF%8D%20%E0%AE%85%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D.txt

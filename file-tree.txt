@@ -1,5 +1,5 @@
 அருணகிரி நாதர்___folder___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/Arunagiri%20Nadhar.txt
-கந்தர் கவசங்கள் ஆறு___folder___null
-நக்கீரர்___folder___null
-பாம்பன் சுவாமிகள்___folder___null
-பிற நூல்கள்___folder___null
+கந்தர் கவசங்கள் ஆறு___folder___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/Arunagiri%20Nadhar.txt
+நக்கீரர்___folder___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/Arunagiri%20Nadhar.txt
+பாம்பன் சுவாமிகள்___folder___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/Arunagiri%20Nadhar.txt
+பிற நூல்கள்___folder___https://raw.githubusercontent.com/vishnupathi2001-max/Seyon-App-Testing/refs/heads/main/Arunagiri%20Nadhar.txt
